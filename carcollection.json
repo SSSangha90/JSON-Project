@@ -1,0 +1,21 @@
+
+[{
+        make: "Ferrari",
+        model: "458 italia",
+        "price": 200000
+    }, {
+        "make": "Lamborghini",
+        "model": "aventador",
+        "price": 300000
+    }, {
+        "make": "McClaren",
+        "model": "p1",
+        "price": 1000000,
+        "transmition":{
+            "type1": "auto",
+            "type2": "manual"
+        }
+    }
+]
+
+
